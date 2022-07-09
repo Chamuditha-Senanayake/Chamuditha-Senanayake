@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Back End Development**
 
-- 💬 Ask me about **UI/UX and React**
-
 - 📫 How to reach me **chamudithacbs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
