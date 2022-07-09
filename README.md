@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nawoda Jayaisnghe.</h1>
+<h1 align="center">Hi 👋, I'm Chamuditha Senanayake.</h1>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I'm Nawoda Jayaisnghe, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3>
+<h3 align="center">I'm Chamuditha Senanayake, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3>
 
 
 
-- 🌱 I’m currently learning **User Experience Design and Front End Development**
+- 🌱 I’m currently learning **Back End Development**
 
 - 💬 Ask me about **UI/UX and React**
 
-- 📫 How to reach me **nawoda.jayasinghe98@gmail.com**
+- 📫 How to reach me **chamudithacbs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
