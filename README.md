@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamuditha Senanayake.</h1>
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+<center><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></center>
 <!-- <h3 align="center">I'm Chamuditha Senanayake, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3> -->
 <br/>
 
