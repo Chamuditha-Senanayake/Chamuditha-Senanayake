@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chamuditha Senanayake.</h1>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I'm Chamuditha Senanayake, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3>
+<!-- <h3 align="center">I'm Chamuditha Senanayake, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3> -->
 
 
 
-- 🌱 I’m currently learning **Back End Development**
+- 🌱 As a **Full Stack Developer**, I'm passionately crafting the digital innovations of tomorrow! 🌟💻🚀
 
 - 📫 How to reach me **chamudithacbs@gmail.com**
 
