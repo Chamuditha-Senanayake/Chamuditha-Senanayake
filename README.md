@@ -25,6 +25,6 @@
  </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamuditha-Senanayake&show_icons=true&locale=en&layout=compact" alt="Chamuditha" /></p>-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamuditha-Senanayake&show_icons=true&locale=en&layout=compact" alt="Chamuditha" style="width:100%; display:block;" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamuditha-Senanayake&show_icons=true&locale=en&layout=compact" alt="Chamuditha" style="width:50%; display:block;" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chamuditha-Senanayake&show_icons=true&locale=en" alt="Chamuditha" /></p> -->
