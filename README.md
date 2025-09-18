@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamuditha-Senanayake&show_icons=true&locale=en&layout=compact" alt="Chamuditha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chamuditha-Senanayake&show_icons=true&locale=en" alt="Chamuditha" /></p>
+//<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chamuditha-Senanayake&show_icons=true&locale=en" alt="Chamuditha" /></p>
