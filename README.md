@@ -24,7 +24,6 @@
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamuditha-Senanayake&show_icons=true&locale=en&layout=compact" alt="Chamuditha" /></p>-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamuditha-Senanayake&show_icons=true&locale=en&layout=compact" alt="Chamuditha" style="width:100%; height:auto; max-height:20%; object-fit:contain; display:block;" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamuditha-Senanayake&show_icons=true&locale=en&layout=compact" alt="Chamuditha" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chamuditha-Senanayake&show_icons=true&locale=en" alt="Chamuditha" /></p> -->
